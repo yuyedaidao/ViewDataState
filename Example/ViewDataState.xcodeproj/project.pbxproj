@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		25756A9655E76319BAAAEBCA /* Pods-ViewDataState_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ViewDataState_Example.release.xcconfig"; path = "Target Support Files/Pods-ViewDataState_Example/Pods-ViewDataState_Example.release.xcconfig"; sourceTree = "<group>"; };
-		2FAB0C61ADC914771C6A7092 /* ViewDataState.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ViewDataState.podspec; path = ../ViewDataState.podspec; sourceTree = "<group>"; };
+		2FAB0C61ADC914771C6A7092 /* ViewDataState.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ViewDataState.podspec; path = ../ViewDataState.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3258D80A226DBE9CE8FFBE06 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3B3EB021CE42B97EA2815FCD /* Pods-ViewDataState_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ViewDataState_Tests.debug.xcconfig"; path = "Target Support Files/Pods-ViewDataState_Tests/Pods-ViewDataState_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5502BDD025F6094100259071 /* ViewDataState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDataState.swift; sourceTree = "<group>"; };

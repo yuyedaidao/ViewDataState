@@ -18,6 +18,8 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'ViewDataState'
+// or
+pod 'ViewDataState', :git => 'https://github.com/yuyedaidao/ViewDataState.git'
 ```
 
 ## Use
