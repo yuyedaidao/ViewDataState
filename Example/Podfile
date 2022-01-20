@@ -1,0 +1,19 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://gitee.com/padding/YQPods.git'
+
+use_frameworks!
+platform :ios, '10.0'
+
+target 'ViewDataState_Example' do
+  pod 'ViewDataState', :path => '../'
+
+  #pod 'Moya/RxSwift'
+  #pod 'SnapKit'
+  #pod 'RxDataSources'
+
+  target 'ViewDataState_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

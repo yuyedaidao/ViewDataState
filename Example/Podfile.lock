@@ -1,0 +1,16 @@
+PODS:
+  - ViewDataState (0.1.0)
+
+DEPENDENCIES:
+  - ViewDataState (from `../`)
+
+EXTERNAL SOURCES:
+  ViewDataState:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ViewDataState: 03d4cd0f1d41155a21b79f6fd68f8ea136924051
+
+PODFILE CHECKSUM: ae53073919c4e999d00d7ab91d8c38c705c718c6
+
+COCOAPODS: 1.10.0
